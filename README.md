@@ -1,1 +1,1 @@
-"Assignments for Auburns COMP 5600 Course." 
+"Assignments for Auburns COMP 5600 "Artificial Intelligence" Course." 
