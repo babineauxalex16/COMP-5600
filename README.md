@@ -1,1 +1,1 @@
-"Assignments for Auburn University's COMP 5600 Fall 2025 Course" 
+"Assignments for Auburns COMP 5600 "Artificial Intelligence" Course." 
